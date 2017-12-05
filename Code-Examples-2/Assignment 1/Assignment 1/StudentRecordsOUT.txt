@@ -1,5 +1,5 @@
-Student Name: 		Conor OMathuna
-Student ID: 		B00075707
+Student Name: 		Aiden Barrett
+Student ID: 		B00075033
 # of Modules: 		8
 
 Student's GPA: 		3.22
@@ -183,8 +183,8 @@ Qualification Level: 	Second Class Honours, Grade 2
 
 ------------------------------------------------------------------------------
 
-Student Name: 		Sinead Murphy
-Student ID: 		C12754515
+Student Name: 		Jane Murphy
+Student ID: 		C1275451
 # of Modules: 		9
 
 Student's GPA: 		3.64
@@ -238,7 +238,7 @@ Qualification Level: 	First Class Honours
 
 ------------------------------------------------------------------------------
 
-Student Name: 		Darren Murphy
+Student Name: 		Darren Murpha
 Student ID: 		BHAW1234
 # of Modules: 		5
 

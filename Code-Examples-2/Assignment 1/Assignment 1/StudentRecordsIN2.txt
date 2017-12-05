@@ -19,7 +19,7 @@ Economics 5 85
 Law 10 39
 Management 5 72
 /
-Conor OMathuna B00075707
+Aiden Barrett B00075033
 Maths 5 84
 Micro 10 59
 ECAD 5 67
@@ -47,7 +47,7 @@ Maths 5 80
 ECAD 5 87
 Micro 10 41
 /
-Sinead Murphy C12754515
+Jane Murphy C1275451
 Accounting 5 70
 HealthSafety 5 69
 Economics 5 98
@@ -58,7 +58,7 @@ ECAD 5 67
 Micro 10 71
 Electronics 5 84
 /
-Darren Murphy BHAW1234
+Darren Murpha BHAW1234
 English 5 19
 Law 5 92
 Dinosaur 10 74
