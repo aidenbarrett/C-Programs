@@ -1,0 +1,490 @@
+Student Name: 		Conor OMathuna
+Student ID: 		B00075707
+# of Modules: 		8
+
+Student's GPA: 		3.22
+Qualification Level: 	Second Class Honours, Grade 1
+
+	Module name: 		Maths
+	Module credits: 	5
+	Module result: 		84%
+	Module grade: 		A
+
+	Module name: 		Micro
+	Module credits: 	10
+	Module result: 		59%
+	Module grade: 		B-
+
+	Module name: 		ECAD
+	Module credits: 	5
+	Module result: 		67%
+	Module grade: 		B
+
+	Module name: 		ElecComm
+	Module credits: 	5
+	Module result: 		87%
+	Module grade: 		A
+
+	Module name: 		Law
+	Module credits: 	5
+	Module result: 		87%
+	Module grade: 		A
+
+	Module name: 		Entrepreneurship
+	Module credits: 	5
+	Module result: 		55%
+	Module grade: 		C+
+
+	Module name: 		Management
+	Module credits: 	5
+	Module result: 		54%
+	Module grade: 		C+
+
+	Module name: 		Accounting
+	Module credits: 	5
+	Module result: 		78%
+	Module grade: 		B+
+
+
+------------------------------------------------------------------------------
+
+Student Name: 		John Delaney
+Student ID: 		B00011111
+# of Modules: 		7
+
+Student's GPA: 		3.44
+Qualification Level: 	First Class Honours
+
+	Module name: 		Maths
+	Module credits: 	5
+	Module result: 		100%
+	Module grade: 		A
+
+	Module name: 		ECAD
+	Module credits: 	5
+	Module result: 		100%
+	Module grade: 		A
+
+	Module name: 		Micro
+	Module credits: 	10
+	Module result: 		100%
+	Module grade: 		A
+
+	Module name: 		Law
+	Module credits: 	5
+	Module result: 		62%
+	Module grade: 		B
+
+	Module name: 		Entrepreneurship
+	Module credits: 	5
+	Module result: 		52%
+	Module grade: 		C+
+
+	Module name: 		Management
+	Module credits: 	5
+	Module result: 		54%
+	Module grade: 		C+
+
+	Module name: 		Accounting
+	Module credits: 	5
+	Module result: 		73%
+	Module grade: 		B+
+
+
+------------------------------------------------------------------------------
+
+Student Name: 		Martha Dingle
+Student ID: 		B00012345
+# of Modules: 		5
+
+Student's GPA: 		2.75
+Qualification Level: 	Second Class Honours, Grade 2
+
+	Module name: 		Maths
+	Module credits: 	5
+	Module result: 		87%
+	Module grade: 		A
+
+	Module name: 		ECAD
+	Module credits: 	5
+	Module result: 		60%
+	Module grade: 		B-
+
+	Module name: 		Micro
+	Module credits: 	10
+	Module result: 		71%
+	Module grade: 		B+
+
+	Module name: 		Electronics
+	Module credits: 	5
+	Module result: 		35%
+	Module grade: 		F
+
+	Module name: 		Programming
+	Module credits: 	5
+	Module result: 		59%
+	Module grade: 		B-
+
+
+------------------------------------------------------------------------------
+
+Student Name: 		Damian Marley
+Student ID: 		B00098765
+# of Modules: 		4
+
+Student's GPA: 		2.50
+Qualification Level: 	Pass
+
+	Module name: 		Micro
+	Module credits: 	10
+	Module result: 		48%
+	Module grade: 		C
+
+	Module name: 		Maths
+	Module credits: 	5
+	Module result: 		42%
+	Module grade: 		C
+
+	Module name: 		Programming
+	Module credits: 	5
+	Module result: 		88%
+	Module grade: 		A
+
+	Module name: 		Electronics
+	Module credits: 	5
+	Module result: 		54%
+	Module grade: 		C+
+
+
+------------------------------------------------------------------------------
+
+Student Name: 		Louise Schweiney
+Student ID: 		B00045612
+# of Modules: 		3
+
+Student's GPA: 		2.88
+Qualification Level: 	Second Class Honours, Grade 2
+
+	Module name: 		Maths
+	Module credits: 	5
+	Module result: 		80%
+	Module grade: 		B+
+
+	Module name: 		ECAD
+	Module credits: 	5
+	Module result: 		87%
+	Module grade: 		A
+
+	Module name: 		Micro
+	Module credits: 	10
+	Module result: 		41%
+	Module grade: 		C
+
+
+------------------------------------------------------------------------------
+
+Student Name: 		Sinead Murphy
+Student ID: 		C12754515
+# of Modules: 		9
+
+Student's GPA: 		3.64
+Qualification Level: 	First Class Honours
+
+	Module name: 		Accounting
+	Module credits: 	5
+	Module result: 		70%
+	Module grade: 		B
+
+	Module name: 		HealthSafety
+	Module credits: 	5
+	Module result: 		69%
+	Module grade: 		B
+
+	Module name: 		Economics
+	Module credits: 	5
+	Module result: 		98%
+	Module grade: 		A
+
+	Module name: 		Law
+	Module credits: 	10
+	Module result: 		90%
+	Module grade: 		A
+
+	Module name: 		Management
+	Module credits: 	5
+	Module result: 		86%
+	Module grade: 		A
+
+	Module name: 		Maths
+	Module credits: 	5
+	Module result: 		87%
+	Module grade: 		A
+
+	Module name: 		ECAD
+	Module credits: 	5
+	Module result: 		67%
+	Module grade: 		B
+
+	Module name: 		Micro
+	Module credits: 	10
+	Module result: 		71%
+	Module grade: 		B+
+
+	Module name: 		Electronics
+	Module credits: 	5
+	Module result: 		84%
+	Module grade: 		A
+
+
+------------------------------------------------------------------------------
+
+Student Name: 		Darren Murphy
+Student ID: 		BHAW1234
+# of Modules: 		5
+
+Student's GPA: 		2.79
+Qualification Level: 	Second Class Honours, Grade 2
+
+	Module name: 		English
+	Module credits: 	5
+	Module result: 		19%
+	Module grade: 		F
+
+	Module name: 		Law
+	Module credits: 	5
+	Module result: 		92%
+	Module grade: 		A
+
+	Module name: 		Dinosaur
+	Module credits: 	10
+	Module result: 		74%
+	Module grade: 		B+
+
+	Module name: 		Health
+	Module credits: 	5
+	Module result: 		66%
+	Module grade: 		B
+
+	Module name: 		Economics
+	Module credits: 	10
+	Module result: 		59%
+	Module grade: 		B-
+
+
+------------------------------------------------------------------------------
+
+Student Name: 		Gretel Downey
+Student ID: 		B7963154
+# of Modules: 		8
+
+Student's GPA: 		3.09
+Qualification Level: 	Second Class Honours, Grade 1
+
+	Module name: 		Law
+	Module credits: 	5
+	Module result: 		62%
+	Module grade: 		B
+
+	Module name: 		Entrepreneurship
+	Module credits: 	5
+	Module result: 		52%
+	Module grade: 		C+
+
+	Module name: 		Management
+	Module credits: 	5
+	Module result: 		54%
+	Module grade: 		C+
+
+	Module name: 		Accounting
+	Module credits: 	5
+	Module result: 		73%
+	Module grade: 		B+
+
+	Module name: 		Economics
+	Module credits: 	5
+	Module result: 		61%
+	Module grade: 		B
+
+	Module name: 		Carpentry
+	Module credits: 	5
+	Module result: 		60%
+	Module grade: 		B-
+
+	Module name: 		Axes
+	Module credits: 	5
+	Module result: 		79%
+	Module grade: 		B+
+
+	Module name: 		Leaves
+	Module credits: 	5
+	Module result: 		94%
+	Module grade: 		A
+
+
+------------------------------------------------------------------------------
+
+Student Name: 		Thomas James
+Student ID: 		B00048167
+# of Modules: 		10
+
+Student's GPA: 		1.48
+Qualification Level: 	Did not pass
+
+	Module name: 		English
+	Module credits: 	5
+	Module result: 		60%
+	Module grade: 		B-
+
+	Module name: 		Maths
+	Module credits: 	10
+	Module result: 		46%
+	Module grade: 		C
+
+	Module name: 		Economics
+	Module credits: 	5
+	Module result: 		4%
+	Module grade: 		F
+
+	Module name: 		Micro
+	Module credits: 	10
+	Module result: 		27%
+	Module grade: 		F
+
+	Module name: 		Law
+	Module credits: 	5
+	Module result: 		16%
+	Module grade: 		F
+
+	Module name: 		Management
+	Module credits: 	5
+	Module result: 		32%
+	Module grade: 		F
+
+	Module name: 		Accounting
+	Module credits: 	5
+	Module result: 		41%
+	Module grade: 		C
+
+	Module name: 		Carpentry
+	Module credits: 	5
+	Module result: 		42%
+	Module grade: 		C
+
+	Module name: 		Axes
+	Module credits: 	5
+	Module result: 		70%
+	Module grade: 		B
+
+	Module name: 		Leaves
+	Module credits: 	5
+	Module result: 		87%
+	Module grade: 		A
+
+
+------------------------------------------------------------------------------
+
+Student Name: 		Celine Carpenter
+Student ID: 		B00084187
+# of Modules: 		8
+
+Student's GPA: 		2.70
+Qualification Level: 	Second Class Honours, Grade 2
+
+	Module name: 		Wood
+	Module credits: 	5
+	Module result: 		46%
+	Module grade: 		C
+
+	Module name: 		Trees
+	Module credits: 	10
+	Module result: 		84%
+	Module grade: 		A
+
+	Module name: 		Carpentry
+	Module credits: 	5
+	Module result: 		79%
+	Module grade: 		B+
+
+	Module name: 		Axes
+	Module credits: 	5
+	Module result: 		71%
+	Module grade: 		B+
+
+	Module name: 		Leaves
+	Module credits: 	5
+	Module result: 		14%
+	Module grade: 		F
+
+	Module name: 		NuclearPhysics
+	Module credits: 	10
+	Module result: 		94%
+	Module grade: 		A
+
+	Module name: 		Management
+	Module credits: 	5
+	Module result: 		32%
+	Module grade: 		F
+
+	Module name: 		Accounting
+	Module credits: 	5
+	Module result: 		41%
+	Module grade: 		C
+
+
+------------------------------------------------------------------------------
+
+Student Name: 		Theodore Johnson
+Student ID: 		B00015471
+# of Modules: 		9
+
+Student's GPA: 		2.36
+Qualification Level: 	Pass
+
+	Module name: 		Maths
+	Module credits: 	5
+	Module result: 		51%
+	Module grade: 		C+
+
+	Module name: 		ECAD
+	Module credits: 	5
+	Module result: 		41%
+	Module grade: 		C
+
+	Module name: 		Micro
+	Module credits: 	10
+	Module result: 		84%
+	Module grade: 		A
+
+	Module name: 		Electronics
+	Module credits: 	5
+	Module result: 		21%
+	Module grade: 		F
+
+	Module name: 		Accounting
+	Module credits: 	5
+	Module result: 		68%
+	Module grade: 		B
+
+	Module name: 		HealthSafety
+	Module credits: 	5
+	Module result: 		12%
+	Module grade: 		F
+
+	Module name: 		Economics
+	Module credits: 	5
+	Module result: 		85%
+	Module grade: 		A
+
+	Module name: 		Law
+	Module credits: 	10
+	Module result: 		39%
+	Module grade: 		D
+
+	Module name: 		Management
+	Module credits: 	5
+	Module result: 		72%
+	Module grade: 		B+
+
+
+------------------------------------------------------------------------------
+

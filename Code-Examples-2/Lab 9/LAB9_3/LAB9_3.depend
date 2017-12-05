@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1418208594 source:e:\college\itb\programming 2\lab 9\lab9_3\lab9_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"functions.h"
+
+1417603460 e:\college\itb\programming 2\lab 9\lab9_3\lab9_3\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1417603570 source:g:\college\itb\programming 2\lab 9\lab9_3\lab9_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"functions.h"
+
+1417603460 g:\college\itb\programming 2\lab 9\lab9_3\lab9_3\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

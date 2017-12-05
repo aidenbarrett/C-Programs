@@ -1,0 +1,98 @@
+Conor OMathuna B00075707
+Maths 5 84
+Micro 10 59
+ECAD 5 67
+ElecComm 5 87
+Law 5 87
+Entrepreneurship 5 55
+Management 5 54
+Accounting 5 78
+/
+John Delaney B00011111
+Maths 5 100
+ECAD 5 100
+Micro 10 100
+Law 5 62
+Entrepreneurship 5 52
+Management 5 54
+Accounting 5 73
+/
+Martha Dingle B00012345
+Maths 5 87
+ECAD 5 60
+Micro 10 71
+Electronics 5 35
+Programming 5 59
+/
+Damian Marley B00098765
+Micro 10 48
+Maths 5 42
+Programming 5 88
+Electronics 5 54
+/
+Louise Schweiney B00045612
+Maths 5 80
+ECAD 5 87
+Micro 10 41
+/
+Sinead Murphy C12754515
+Accounting 5 70
+HealthSafety 5 69
+Economics 5 98
+Law 10 90
+Management 5 86
+Maths 5 87
+ECAD 5 67
+Micro 10 71
+Electronics 5 84
+/
+Darren Murphy BHAW1234
+English 5 19
+Law 5 92
+Dinosaur 10 74
+Health 5 66
+Economics 10 59
+/
+Gretel Downey B7963154
+Law 5 62
+Entrepreneurship 5 52
+Management 5 54
+Accounting 5 73
+Economics 5 61
+Carpentry 5 60
+Axes 5 79
+Leaves 5 94
+/
+Thomas James B00048167
+English 5 60
+Maths 10 46
+Economics 5 4
+Micro 10 27
+Law 5 16
+Management 5 32
+Accounting 5 41
+Carpentry 5 42
+Axes 5 70
+Leaves 5 87
+/
+Celine Carpenter B00084187
+Wood 5 46
+Trees 10 84
+Carpentry 5 79
+Axes 5 71
+Leaves 5 14
+NuclearPhysics 10 94
+Management 5 32
+Accounting 5 41
+/
+Theodore Johnson B00015471
+Maths 5 51
+ECAD 5 41
+Micro 10 84
+Electronics 5 21
+Accounting 5 68
+HealthSafety 5 12
+Economics 5 85
+Law 10 39
+Management 5 72
+/
